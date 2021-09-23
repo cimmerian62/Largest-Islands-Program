@@ -1,4 +1,4 @@
-This Program creates a 2d array filled randomly wth ones and zeros, then uses a backtracking algorithm to find the largest group of 1's that touch(an island of 1's in an ocean of 0's). The program displays the size of the largest island and prints out the 2d array, but the 1's of the largest island are turned into X's.
+This Program creates a 2d array filled randomly wth ones and zeros, then uses a backtracking algorithm to find the largest group of 1's that touch vertically, horizontally, or diagonally(an island of 1's in an ocean of 0's). The program displays the size of the largest island and prints out the 2d array, but the 1's of the largest island are turned into X's.
 
 Test Case 1:
 
